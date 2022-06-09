@@ -1,0 +1,8 @@
+asgiref
+Django
+django-cors-headers
+djangorestframework
+mysqlclient
+PyJWT
+pytz
+sqlparse
